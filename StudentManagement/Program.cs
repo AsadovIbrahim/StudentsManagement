@@ -3,14 +3,16 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using StudentManagement.Contexts;
 using StudentManagement.Models.Concretes;
+using StudentManagement.Services;
 using StudentManagement.Services.EmailService.Abstracts;
 using IMailService = StudentManagement.Services.EmailService.Abstracts.IMailService;
 using MailService = StudentManagement.Services.EmailService.Concretes.MailService;
 
 namespace StudentManagement
 {
-    public class Program
+    public static class Program
     {
+        
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
@@ -37,7 +39,7 @@ namespace StudentManagement
             app.UseStaticFiles();
 
             app.UseRouting();
-
+            app.Services.AddRoleServices();
             app.UseAuthentication();
             app.UseAuthorization();
 
@@ -52,5 +54,6 @@ namespace StudentManagement
 
             app.Run();
         }
+       
     }
 }

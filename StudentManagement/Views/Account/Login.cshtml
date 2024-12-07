@@ -57,7 +57,7 @@
                                     <div class="text-center">
                                         <h1 class="h4 text-gray-900 mb-4">Welcome Back!</h1>
                                     </div>
-                                    <form class="user" asp-action="Login">
+                                    <form class="user" asp-action="Login" asp-controller="Account" method="post">
                                         <div class="form-group">
                                             <input asp-for="Email" class="form-control form-control-user"
                                                    placeholder="Enter Email Or Username">
@@ -75,7 +75,7 @@
                                             </div>
                                         </div>
                                         <div asp-validation-summary="All"></div>
-                                        <button class="btn" style="background-color:#656565;color:#ffffff">Login</button>
+                                        <button class="btn" type="submit" asp-action="Login" style="background-color:#656565;color:#ffffff">Login</button>
 
                                     </form>
                                     <div class="text-center">
