@@ -1,5 +1,7 @@
+using MailKit;
 using Microsoft.EntityFrameworkCore;
 using StudentManagement.Contexts;
+using IMailService = MailKit.IMailService;
 
 namespace StudentManagement
 {
@@ -11,6 +13,7 @@ namespace StudentManagement
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
+            builder.Services.AddScoped<IMailService, MailService>();
             builder.Services.AddDbContext<AppDbContext>(opt =>
             {
                 opt.UseSqlServer(builder.Configuration.GetConnectionString("default"));

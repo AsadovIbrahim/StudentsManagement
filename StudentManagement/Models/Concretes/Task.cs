@@ -8,7 +8,7 @@ namespace StudentManagement.Models.Concretes
         public string Description { get; set; }
         public string Type { get; set; }
         public double MaxGradePoint { get; set; }
-        public DateTime Deadline { get; set; } = DateTime.Now;
+        public DateTime Deadline { get; set; }
 
 
         //Foreign Key
