@@ -17,13 +17,16 @@ namespace StudentManagement.Controllers
 
 
         public AccountController(
-            UserManager<User> userManager, 
+            UserManager<User> userManager,
             SignInManager<User> signInManager,
-            RoleManager<IdentityRole> roleManager)
+            RoleManager<IdentityRole> roleManager,
+            IMailService mailService)
         {
+
             _userManager = userManager;
             _signInManager = signInManager;
             _roleManager = roleManager;
+            _mailService = mailService;
         }
         public IActionResult Index()
         {

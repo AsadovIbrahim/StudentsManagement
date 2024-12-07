@@ -2,6 +2,7 @@
 
 namespace StudentManagement.Areas.Admin.Controllers
 {
+    [Area("Admin")]
     public class Dashboard : Controller
     {
         public IActionResult Index()

@@ -3,16 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\StudentManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{844ACB9D-43FC-47E3-B6F2-E2823BADC4FC}|StudentManagement\\StudentManagement.csproj|c:\\users\\asus\\source\\repos\\studentmanagement\\studentmanagement\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{844ACB9D-43FC-47E3-B6F2-E2823BADC4FC}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{844ACB9D-43FC-47E3-B6F2-E2823BADC4FC}|StudentManagement\\StudentManagement.csproj|c:\\users\\asus\\source\\repos\\studentmanagement\\studentmanagement\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{844ACB9D-43FC-47E3-B6F2-E2823BADC4FC}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{844ACB9D-43FC-47E3-B6F2-E2823BADC4FC}|StudentManagement\\StudentManagement.csproj|c:\\users\\asus\\source\\repos\\studentmanagement\\studentmanagement\\helpers\\mailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{844ACB9D-43FC-47E3-B6F2-E2823BADC4FC}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\helpers\\mailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{844ACB9D-43FC-47E3-B6F2-E2823BADC4FC}|StudentManagement\\StudentManagement.csproj|c:\\users\\asus\\source\\repos\\studentmanagement\\studentmanagement\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{844ACB9D-43FC-47E3-B6F2-E2823BADC4FC}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{844ACB9D-43FC-47E3-B6F2-E2823BADC4FC}|StudentManagement\\StudentManagement.csproj|c:\\users\\asus\\source\\repos\\studentmanagement\\studentmanagement\\helpers\\mailrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{844ACB9D-43FC-47E3-B6F2-E2823BADC4FC}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\helpers\\mailrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{844ACB9D-43FC-47E3-B6F2-E2823BADC4FC}|StudentManagement\\StudentManagement.csproj|c:\\users\\asus\\source\\repos\\studentmanagement\\studentmanagement\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{844ACB9D-43FC-47E3-B6F2-E2823BADC4FC}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844ACB9D-43FC-47E3-B6F2-E2823BADC4FC}|StudentManagement\\StudentManagement.csproj|c:\\users\\asus\\source\\repos\\studentmanagement\\studentmanagement\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{844ACB9D-43FC-47E3-B6F2-E2823BADC4FC}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844ACB9D-43FC-47E3-B6F2-E2823BADC4FC}|StudentManagement\\StudentManagement.csproj|c:\\users\\asus\\source\\repos\\studentmanagement\\studentmanagement\\models\\concretes\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{844ACB9D-43FC-47E3-B6F2-E2823BADC4FC}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\models\\concretes\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844ACB9D-43FC-47E3-B6F2-E2823BADC4FC}|StudentManagement\\StudentManagement.csproj|c:\\users\\asus\\source\\repos\\studentmanagement\\studentmanagement\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{844ACB9D-43FC-47E3-B6F2-E2823BADC4FC}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844ACB9D-43FC-47E3-B6F2-E2823BADC4FC}|StudentManagement\\StudentManagement.csproj|c:\\users\\asus\\source\\repos\\studentmanagement\\studentmanagement\\areas\\admin\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{844ACB9D-43FC-47E3-B6F2-E2823BADC4FC}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\areas\\admin\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844ACB9D-43FC-47E3-B6F2-E2823BADC4FC}|StudentManagement\\StudentManagement.csproj|c:\\users\\asus\\source\\repos\\studentmanagement\\studentmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{844ACB9D-43FC-47E3-B6F2-E2823BADC4FC}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844ACB9D-43FC-47E3-B6F2-E2823BADC4FC}|StudentManagement\\StudentManagement.csproj|c:\\users\\asus\\source\\repos\\studentmanagement\\studentmanagement\\areas\\admin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{844ACB9D-43FC-47E3-B6F2-E2823BADC4FC}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\areas\\admin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844ACB9D-43FC-47E3-B6F2-E2823BADC4FC}|StudentManagement\\StudentManagement.csproj|c:\\users\\asus\\source\\repos\\studentmanagement\\studentmanagement\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{844ACB9D-43FC-47E3-B6F2-E2823BADC4FC}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{844ACB9D-43FC-47E3-B6F2-E2823BADC4FC}|StudentManagement\\StudentManagement.csproj|c:\\users\\asus\\source\\repos\\studentmanagement\\studentmanagement\\services\\emailservice\\abstracts\\imailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,20 +51,36 @@
       "RelativeMoniker": "D:0:0:{844ACB9D-43FC-47E3-B6F2-E2823BADC4FC}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\viewmodels\\forgotpasswordvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{844ACB9D-43FC-47E3-B6F2-E2823BADC4FC}|StudentManagement\\StudentManagement.csproj|c:\\users\\asus\\source\\repos\\studentmanagement\\studentmanagement\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{844ACB9D-43FC-47E3-B6F2-E2823BADC4FC}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{844ACB9D-43FC-47E3-B6F2-E2823BADC4FC}|StudentManagement\\StudentManagement.csproj|c:\\users\\asus\\source\\repos\\studentmanagement\\studentmanagement\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{844ACB9D-43FC-47E3-B6F2-E2823BADC4FC}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{844ACB9D-43FC-47E3-B6F2-E2823BADC4FC}|StudentManagement\\StudentManagement.csproj|c:\\users\\asus\\source\\repos\\studentmanagement\\studentmanagement\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{844ACB9D-43FC-47E3-B6F2-E2823BADC4FC}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{844ACB9D-43FC-47E3-B6F2-E2823BADC4FC}|StudentManagement\\StudentManagement.csproj|c:\\users\\asus\\source\\repos\\studentmanagement\\studentmanagement\\helpers\\mailrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{844ACB9D-43FC-47E3-B6F2-E2823BADC4FC}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\helpers\\mailrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{844ACB9D-43FC-47E3-B6F2-E2823BADC4FC}|StudentManagement\\StudentManagement.csproj|c:\\users\\asus\\source\\repos\\studentmanagement\\studentmanagement\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{844ACB9D-43FC-47E3-B6F2-E2823BADC4FC}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{844ACB9D-43FC-47E3-B6F2-E2823BADC4FC}|StudentManagement\\StudentManagement.csproj|c:\\users\\asus\\source\\repos\\studentmanagement\\studentmanagement\\helpers\\mailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{844ACB9D-43FC-47E3-B6F2-E2823BADC4FC}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\helpers\\mailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844ACB9D-43FC-47E3-B6F2-E2823BADC4FC}|StudentManagement\\StudentManagement.csproj|c:\\users\\asus\\source\\repos\\studentmanagement\\studentmanagement\\areas\\admin\\controllers\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{844ACB9D-43FC-47E3-B6F2-E2823BADC4FC}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\areas\\admin\\controllers\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844ACB9D-43FC-47E3-B6F2-E2823BADC4FC}|StudentManagement\\StudentManagement.csproj|c:\\users\\asus\\source\\repos\\studentmanagement\\studentmanagement\\viewmodels\\getallusersvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{844ACB9D-43FC-47E3-B6F2-E2823BADC4FC}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\viewmodels\\getallusersvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{844ACB9D-43FC-47E3-B6F2-E2823BADC4FC}|StudentManagement\\StudentManagement.csproj|c:\\users\\asus\\source\\repos\\studentmanagement\\studentmanagement\\services\\emailservice\\concretes\\mailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{844ACB9D-43FC-47E3-B6F2-E2823BADC4FC}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\services\\emailservice\\concretes\\mailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844ACB9D-43FC-47E3-B6F2-E2823BADC4FC}|StudentManagement\\StudentManagement.csproj|c:\\users\\asus\\source\\repos\\studentmanagement\\studentmanagement\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{844ACB9D-43FC-47E3-B6F2-E2823BADC4FC}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844ACB9D-43FC-47E3-B6F2-E2823BADC4FC}|StudentManagement\\StudentManagement.csproj|c:\\users\\asus\\source\\repos\\studentmanagement\\studentmanagement\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{844ACB9D-43FC-47E3-B6F2-E2823BADC4FC}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{844ACB9D-43FC-47E3-B6F2-E2823BADC4FC}|StudentManagement\\StudentManagement.csproj|c:\\users\\asus\\source\\repos\\studentmanagement\\studentmanagement\\models\\concretes\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,16 +91,8 @@
       "RelativeMoniker": "D:0:0:{844ACB9D-43FC-47E3-B6F2-E2823BADC4FC}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\viewmodels\\resetpasswordvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{844ACB9D-43FC-47E3-B6F2-E2823BADC4FC}|StudentManagement\\StudentManagement.csproj|c:\\users\\asus\\source\\repos\\studentmanagement\\studentmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{844ACB9D-43FC-47E3-B6F2-E2823BADC4FC}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{844ACB9D-43FC-47E3-B6F2-E2823BADC4FC}|StudentManagement\\StudentManagement.csproj|c:\\users\\asus\\source\\repos\\studentmanagement\\studentmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{844ACB9D-43FC-47E3-B6F2-E2823BADC4FC}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{844ACB9D-43FC-47E3-B6F2-E2823BADC4FC}|StudentManagement\\StudentManagement.csproj|c:\\users\\asus\\source\\repos\\studentmanagement\\studentmanagement\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{844ACB9D-43FC-47E3-B6F2-E2823BADC4FC}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{844ACB9D-43FC-47E3-B6F2-E2823BADC4FC}|StudentManagement\\StudentManagement.csproj|c:\\users\\asus\\source\\repos\\studentmanagement\\studentmanagement\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -83,10 +119,6 @@
       "RelativeMoniker": "D:0:0:{844ACB9D-43FC-47E3-B6F2-E2823BADC4FC}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\models\\concretes\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{844ACB9D-43FC-47E3-B6F2-E2823BADC4FC}|StudentManagement\\StudentManagement.csproj|c:\\users\\asus\\source\\repos\\studentmanagement\\studentmanagement\\models\\concretes\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{844ACB9D-43FC-47E3-B6F2-E2823BADC4FC}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\models\\concretes\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{844ACB9D-43FC-47E3-B6F2-E2823BADC4FC}|StudentManagement\\StudentManagement.csproj|c:\\users\\asus\\source\\repos\\studentmanagement\\studentmanagement\\models\\concretes\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{844ACB9D-43FC-47E3-B6F2-E2823BADC4FC}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\models\\concretes\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -111,84 +143,131 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\StudentManagement\\StudentManagement\\ScaffoldingReadMe.txt",
-              "RelativeDocumentMoniker": "StudentManagement\\ScaffoldingReadMe.txt",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\StudentManagement\\StudentManagement\\ScaffoldingReadMe.txt",
-              "RelativeToolTip": "StudentManagement\\ScaffoldingReadMe.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-12-07T09:39:45.252Z",
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\StudentManagement\\StudentManagement\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "StudentManagement\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\StudentManagement\\StudentManagement\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "StudentManagement\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T10:48:51.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\StudentManagement\\StudentManagement\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "StudentManagement\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\StudentManagement\\StudentManagement\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "StudentManagement\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAD0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T10:21:32.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\StudentManagement\\StudentManagement\\Areas\\Admin\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Areas\\Admin\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\StudentManagement\\StudentManagement\\Areas\\Admin\\Controllers\\UserController.cs",
+              "RelativeToolTip": "StudentManagement\\Areas\\Admin\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T09:54:22.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\StudentManagement\\StudentManagement\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\StudentManagement\\StudentManagement\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "StudentManagement\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAjwDUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T08:53:03.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\StudentManagement\\StudentManagement\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "StudentManagement\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\StudentManagement\\StudentManagement\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "StudentManagement\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T10:36:32.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IMailService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\StudentManagement\\StudentManagement\\Services\\EmailService\\Abstracts\\IMailService.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Services\\EmailService\\Abstracts\\IMailService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\StudentManagement\\StudentManagement\\Services\\EmailService\\Abstracts\\IMailService.cs",
+              "RelativeToolTip": "StudentManagement\\Services\\EmailService\\Abstracts\\IMailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T09:00:41.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\StudentManagement\\StudentManagement\\Models\\Concretes\\User.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Models\\Concretes\\User.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\StudentManagement\\StudentManagement\\Models\\Concretes\\User.cs",
+              "RelativeToolTip": "StudentManagement\\Models\\Concretes\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T08:38:09.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\StudentManagement\\StudentManagement\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "StudentManagement\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\StudentManagement\\StudentManagement\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "StudentManagement\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T10:22:06.859Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\StudentManagement\\StudentManagement\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "StudentManagement\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\StudentManagement\\StudentManagement\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "StudentManagement\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\StudentManagement\\StudentManagement\\Areas\\Admin\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "StudentManagement\\Areas\\Admin\\Views\\User\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\StudentManagement\\StudentManagement\\Areas\\Admin\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "StudentManagement\\Areas\\Admin\\Views\\User\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-07T09:37:38.059Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-07T10:15:27.004Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "MailService.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\StudentManagement\\StudentManagement\\Services\\EmailService\\Concretes\\MailService.cs",
-              "RelativeDocumentMoniker": "StudentManagement\\Services\\EmailService\\Concretes\\MailService.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\StudentManagement\\StudentManagement\\Services\\EmailService\\Concretes\\MailService.cs",
-              "RelativeToolTip": "StudentManagement\\Services\\EmailService\\Concretes\\MailService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAABAAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\StudentManagement\\StudentManagement\\Program.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\StudentManagement\\StudentManagement\\Program.cs",
+              "RelativeToolTip": "StudentManagement\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T09:07:32.118Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-07T08:42:03.719Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MailSettings.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\StudentManagement\\StudentManagement\\Helpers\\MailSettings.cs",
-              "RelativeDocumentMoniker": "StudentManagement\\Helpers\\MailSettings.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\StudentManagement\\StudentManagement\\Helpers\\MailSettings.cs",
-              "RelativeToolTip": "StudentManagement\\Helpers\\MailSettings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T09:01:49Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MailRequest.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\StudentManagement\\StudentManagement\\Helpers\\MailRequest.cs",
-              "RelativeDocumentMoniker": "StudentManagement\\Helpers\\MailRequest.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\StudentManagement\\StudentManagement\\Helpers\\MailRequest.cs",
-              "RelativeToolTip": "StudentManagement\\Helpers\\MailRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T09:01:39.921Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IMailService.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\StudentManagement\\StudentManagement\\Services\\EmailService\\Abstracts\\IMailService.cs",
-              "RelativeDocumentMoniker": "StudentManagement\\Services\\EmailService\\Abstracts\\IMailService.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\StudentManagement\\StudentManagement\\Services\\EmailService\\Abstracts\\IMailService.cs",
-              "RelativeToolTip": "StudentManagement\\Services\\EmailService\\Abstracts\\IMailService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T09:00:41.045Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "ForgotPasswordVM.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\StudentManagement\\StudentManagement\\ViewModels\\ForgotPasswordVM.cs",
               "RelativeDocumentMoniker": "StudentManagement\\ViewModels\\ForgotPasswordVM.cs",
@@ -196,87 +275,11 @@
               "RelativeToolTip": "StudentManagement\\ViewModels\\ForgotPasswordVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T08:57:44.841Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "LoginVM.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\StudentManagement\\StudentManagement\\ViewModels\\LoginVM.cs",
-              "RelativeDocumentMoniker": "StudentManagement\\ViewModels\\LoginVM.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\StudentManagement\\StudentManagement\\ViewModels\\LoginVM.cs",
-              "RelativeToolTip": "StudentManagement\\ViewModels\\LoginVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T08:53:38.987Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Task.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\StudentManagement\\StudentManagement\\Models\\Concretes\\Task.cs",
-              "RelativeDocumentMoniker": "StudentManagement\\Models\\Concretes\\Task.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\StudentManagement\\StudentManagement\\Models\\Concretes\\Task.cs",
-              "RelativeToolTip": "StudentManagement\\Models\\Concretes\\Task.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T08:38:30.101Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\StudentManagement\\StudentManagement\\Program.cs",
-              "RelativeDocumentMoniker": "StudentManagement\\Program.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\StudentManagement\\StudentManagement\\Program.cs",
-              "RelativeToolTip": "StudentManagement\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T08:42:03.719Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\StudentManagement\\StudentManagement\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "StudentManagement\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\StudentManagement\\StudentManagement\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "StudentManagement\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T08:53:03.662Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ResetPasswordVM.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\StudentManagement\\StudentManagement\\ViewModels\\ResetPasswordVM.cs",
-              "RelativeDocumentMoniker": "StudentManagement\\ViewModels\\ResetPasswordVM.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\StudentManagement\\StudentManagement\\ViewModels\\ResetPasswordVM.cs",
-              "RelativeToolTip": "StudentManagement\\ViewModels\\ResetPasswordVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T09:04:59.683Z"
+              "WhenOpened": "2024-12-07T08:57:44.841Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\StudentManagement\\StudentManagement\\appsettings.json",
-              "RelativeDocumentMoniker": "StudentManagement\\appsettings.json",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\StudentManagement\\StudentManagement\\appsettings.json",
-              "RelativeToolTip": "StudentManagement\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-07T08:41:49.134Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
               "Title": "RegisterVM.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\StudentManagement\\StudentManagement\\ViewModels\\RegisterVM.cs",
               "RelativeDocumentMoniker": "StudentManagement\\ViewModels\\RegisterVM.cs",
@@ -288,7 +291,139 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MailRequest.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\StudentManagement\\StudentManagement\\Helpers\\MailRequest.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Helpers\\MailRequest.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\StudentManagement\\StudentManagement\\Helpers\\MailRequest.cs",
+              "RelativeToolTip": "StudentManagement\\Helpers\\MailRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T09:01:39.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MailSettings.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\StudentManagement\\StudentManagement\\Helpers\\MailSettings.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Helpers\\MailSettings.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\StudentManagement\\StudentManagement\\Helpers\\MailSettings.cs",
+              "RelativeToolTip": "StudentManagement\\Helpers\\MailSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T09:01:49Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 15,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\StudentManagement\\StudentManagement\\Areas\\Admin\\Controllers\\Dashboard.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Areas\\Admin\\Controllers\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\StudentManagement\\StudentManagement\\Areas\\Admin\\Controllers\\Dashboard.cs",
+              "RelativeToolTip": "StudentManagement\\Areas\\Admin\\Controllers\\Dashboard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T09:42:43.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\StudentManagement\\StudentManagement\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "StudentManagement\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\StudentManagement\\StudentManagement\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "StudentManagement\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T09:37:38.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GetAllUsersVM.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\StudentManagement\\StudentManagement\\ViewModels\\GetAllUsersVM.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\ViewModels\\GetAllUsersVM.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\StudentManagement\\StudentManagement\\ViewModels\\GetAllUsersVM.cs",
+              "RelativeToolTip": "StudentManagement\\ViewModels\\GetAllUsersVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T09:57:44.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\StudentManagement\\StudentManagement\\ViewModels\\LoginVM.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\ViewModels\\LoginVM.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\StudentManagement\\StudentManagement\\ViewModels\\LoginVM.cs",
+              "RelativeToolTip": "StudentManagement\\ViewModels\\LoginVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T08:53:38.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MailService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\StudentManagement\\StudentManagement\\Services\\EmailService\\Concretes\\MailService.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Services\\EmailService\\Concretes\\MailService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\StudentManagement\\StudentManagement\\Services\\EmailService\\Concretes\\MailService.cs",
+              "RelativeToolTip": "StudentManagement\\Services\\EmailService\\Concretes\\MailService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T09:07:32.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\StudentManagement\\StudentManagement\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "StudentManagement\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\StudentManagement\\StudentManagement\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "StudentManagement\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-07T09:39:45.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\StudentManagement\\StudentManagement\\Models\\Concretes\\Task.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Models\\Concretes\\Task.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\StudentManagement\\StudentManagement\\Models\\Concretes\\Task.cs",
+              "RelativeToolTip": "StudentManagement\\Models\\Concretes\\Task.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T08:38:30.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ResetPasswordVM.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\StudentManagement\\StudentManagement\\ViewModels\\ResetPasswordVM.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\ViewModels\\ResetPasswordVM.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\StudentManagement\\StudentManagement\\ViewModels\\ResetPasswordVM.cs",
+              "RelativeToolTip": "StudentManagement\\ViewModels\\ResetPasswordVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T09:04:59.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\StudentManagement\\StudentManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentManagement\\appsettings.json",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\StudentManagement\\StudentManagement\\appsettings.json",
+              "RelativeToolTip": "StudentManagement\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-07T08:41:49.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
               "Title": "Role.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\StudentManagement\\StudentManagement\\Enums\\Role.cs",
               "RelativeDocumentMoniker": "StudentManagement\\Enums\\Role.cs",
@@ -300,7 +435,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 25,
               "Title": "20241207084429_First.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\StudentManagement\\StudentManagement\\Migrations\\20241207084429_First.cs",
               "RelativeDocumentMoniker": "StudentManagement\\Migrations\\20241207084429_First.cs",
@@ -312,7 +447,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 23,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\StudentManagement\\StudentManagement\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "StudentManagement\\Controllers\\HomeController.cs",
@@ -324,7 +459,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 26,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\StudentManagement\\StudentManagement\\Contexts\\AppDbContext.cs",
               "RelativeDocumentMoniker": "StudentManagement\\Contexts\\AppDbContext.cs",
@@ -336,7 +471,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 27,
               "Title": "Material.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\StudentManagement\\StudentManagement\\Models\\Concretes\\Material.cs",
               "RelativeDocumentMoniker": "StudentManagement\\Models\\Concretes\\Material.cs",
@@ -348,7 +483,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 28,
               "Title": "Grade.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\StudentManagement\\StudentManagement\\Models\\Concretes\\Grade.cs",
               "RelativeDocumentMoniker": "StudentManagement\\Models\\Concretes\\Grade.cs",
@@ -360,19 +495,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\StudentManagement\\StudentManagement\\Models\\Concretes\\User.cs",
-              "RelativeDocumentMoniker": "StudentManagement\\Models\\Concretes\\User.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\StudentManagement\\StudentManagement\\Models\\Concretes\\User.cs",
-              "RelativeToolTip": "StudentManagement\\Models\\Concretes\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T08:38:09.593Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 29,
               "Title": "Enrollment.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\StudentManagement\\StudentManagement\\Models\\Concretes\\Enrollment.cs",
               "RelativeDocumentMoniker": "StudentManagement\\Models\\Concretes\\Enrollment.cs",
@@ -384,7 +507,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 31,
               "Title": "Course.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\StudentManagement\\StudentManagement\\Models\\Concretes\\Course.cs",
               "RelativeDocumentMoniker": "StudentManagement\\Models\\Concretes\\Course.cs",
@@ -396,7 +519,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 30,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\StudentManagement\\StudentManagement\\Models\\Abstracts\\BaseEntity.cs",
               "RelativeDocumentMoniker": "StudentManagement\\Models\\Abstracts\\BaseEntity.cs",

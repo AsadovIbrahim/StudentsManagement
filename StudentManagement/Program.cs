@@ -1,7 +1,11 @@
 using MailKit;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using StudentManagement.Contexts;
-using IMailService = MailKit.IMailService;
+using StudentManagement.Models.Concretes;
+using StudentManagement.Services.EmailService.Abstracts;
+using IMailService = StudentManagement.Services.EmailService.Abstracts.IMailService;
+using MailService = StudentManagement.Services.EmailService.Concretes.MailService;
 
 namespace StudentManagement
 {
@@ -18,7 +22,7 @@ namespace StudentManagement
             {
                 opt.UseSqlServer(builder.Configuration.GetConnectionString("default"));
             });
-
+            builder.Services.AddIdentity<User, IdentityRole>().AddDefaultTokenProviders().AddEntityFrameworkStores<AppDbContext>();
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
@@ -34,6 +38,7 @@ namespace StudentManagement
 
             app.UseRouting();
 
+            app.UseAuthentication();
             app.UseAuthorization();
 
             app.MapControllerRoute(
